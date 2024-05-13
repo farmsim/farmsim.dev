@@ -11,6 +11,10 @@ Welcome to farmsim.dev's documentation!
    :caption: Contents:
 
 
+FARMS Modules
+=============
+* farms-network: https://farmsim.github.io/farms_network/
+
 
 Indices and tables
 ==================
